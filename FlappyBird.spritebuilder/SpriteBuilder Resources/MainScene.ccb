@@ -142,7 +142,7 @@
 				<key>displayName</key>
 				<string>clouds</string>
 				<key>memberVarAssignmentName</key>
-				<string>_clouds1</string>
+				<string>_cloud1</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -218,6 +218,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -242,7 +244,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string>_cloud2</string>
+						<string></string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -420,7 +422,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string>_bush2</string>
+						<string></string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -800,8 +802,6 @@
 								</array>
 							</dict>
 						</array>
-						<key>selected</key>
-						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
