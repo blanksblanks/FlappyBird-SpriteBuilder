@@ -11,7 +11,7 @@
     // loads a new Character from CCB file created by SpriteBuilder for you named Character
     [physicsNode addChild:character];
     // adds character as a child of physicsNode so physics applied to it
-    [addObstacle];
+    [self addObstacle];
     // spawns a random obstacle in your method
     timeSinceObstacle = 0.0f;
     // initializes the variable timeSinceObstacle from .h
