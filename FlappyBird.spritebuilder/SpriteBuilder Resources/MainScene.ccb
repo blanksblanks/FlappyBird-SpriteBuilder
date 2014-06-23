@@ -233,7 +233,7 @@
 				<key>displayName</key>
 				<string>clouds</string>
 				<key>memberVarAssignmentName</key>
-				<string>_clouds2</string>
+				<string>_cloud2</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
